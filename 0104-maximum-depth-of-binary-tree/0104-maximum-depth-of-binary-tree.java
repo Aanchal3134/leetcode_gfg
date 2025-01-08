@@ -14,7 +14,7 @@
  * }
  */
 class Solution {
-    
+     //MY SOLUTION - ON GETTING HELP FROM NOTES AND DIAM OF BINARY TREE QUES
     public int maxDepth(TreeNode root) {
         return height(root);
         //height being the number of nodes
@@ -25,15 +25,9 @@ class Solution {
             return 0;
         }
 
-        
-        //int height = 0;- not requires
         int left = height(node.left);
         int right = height(node.right);
-
-
         return Math.max(left, right) + 1;
-
-
 
     }
 
