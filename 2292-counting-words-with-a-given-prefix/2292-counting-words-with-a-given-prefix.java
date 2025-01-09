@@ -1,8 +1,9 @@
 class Solution {
     public int prefixCount(String[] words, String pref) {
+        //for each loop - not my solution 
         int count = 0;
-        for(int i=0; i<words.length; i++) {
-            if(words[i].startsWith(pref)) {
+        for(String i : words) {
+            if(i.startsWith(pref)) {
                 count++;
             }
         }
