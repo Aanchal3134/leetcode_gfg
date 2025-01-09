@@ -13,7 +13,7 @@
  *     }
  * }
  */
-class Solution { 
+class Solution { //DFS
     int height = 0;
     public int minDepth(TreeNode root) {
         return height(root);
