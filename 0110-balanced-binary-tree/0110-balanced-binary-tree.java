@@ -14,6 +14,7 @@
  * }
  */
 class Solution {
+    //MY SOLUTION
     boolean flag = true;
     public boolean isBalanced(TreeNode root) {
         if(root == null) {
