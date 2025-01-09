@@ -13,28 +13,33 @@
  *     }
  * }
  */
-class Solution { //DFS
-    int height = 0;
+class Solution { //BFS - SOLUTION FROM SOL SECTION
     public int minDepth(TreeNode root) {
-        return height(root);
-    }
+        if(root == null) return 0;
+        Queue<TreeNode> queue = new LinkedList<>();
 
-    public int height(TreeNode node) {
-        if(node == null) {
-            return 0;
+        queue.add(root);
+        int depth = 1;
+
+        while(!queue.isEmpty()) {
+            int size = queue.size();
+            
+            for(int i=0; i<size; i++) {
+                TreeNode node = queue.poll();
+                if(node.left == null && node.right == null) { //when leaf node
+                    return depth;
+                }
+
+                if(node.left != null ) {
+                    queue.add(node.left);
+                }
+
+                if(node.right != null) {
+                    queue.add(node.right);
+                }
+            }
+            depth++;
         }
-
-        int left = height(node.left);
-        int right = height(node.right);
-        
-
-        if(left != 0 && right != 0) {
-            height = Math.min(left, right) + 1;
-        } else {
-            height = Math.max(left, right) + 1;
-        }
-
-        return height;
-        //for max depth we take maximum value - but here we consider min value
+        return 0;
     }
 }
