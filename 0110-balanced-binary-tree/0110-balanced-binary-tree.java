@@ -35,9 +35,7 @@ class Solution {
         int left = height(node.left);
         int right = height(node.right);
 
-        int a = Math.abs(left - right);
-
-        if(a > 1) {
+        if(Math.abs(left - right) > 1) {
             flag = false;
         }
 
