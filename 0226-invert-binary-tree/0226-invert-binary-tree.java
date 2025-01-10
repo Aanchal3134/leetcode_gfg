@@ -13,35 +13,17 @@
  *     }
  * }
  */
-class Solution { //MY SOLUTION
+class Solution { //original video solution
     public TreeNode invertTree(TreeNode root) {
-        if(root == null) {
-            return null;
-        }
+        if(root == null) return null;
 
-        helper(root);
+        TreeNode left = invertTree(root.left);
+        TreeNode right = invertTree(root.right);
+
+        //swap
+        root.left = right;
+        root.right = left;
+
         return root;
-    }
-
-    public void helper(TreeNode node) {
-        //leaf node
-        if(node.left == null && node.right == null) {
-            return;
-        }
-        
-        TreeNode temp = new TreeNode();
-
-        
-        temp = node.left;
-        node.left = node.right;
-        node.right = temp;
-
-        if(node.left != null) {helper(node.left);}
-        
-        
-        if(node.right != null) {helper(node.right);  }
-             
-        
-             
     }
 }
