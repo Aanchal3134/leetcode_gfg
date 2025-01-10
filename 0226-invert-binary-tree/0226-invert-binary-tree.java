@@ -13,7 +13,7 @@
  *     }
  * }
  */
-class Solution {
+class Solution { //MY SOLUTION
     public TreeNode invertTree(TreeNode root) {
         if(root == null) {
             return null;
