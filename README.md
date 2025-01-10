@@ -8,6 +8,7 @@ LeetcodeN_gfg Ques solutions
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0145-binary-tree-postorder-traversal) |
 ## Tree
 |  |
 | ------- |
@@ -20,6 +21,7 @@ LeetcodeN_gfg Ques solutions
 | [0111-minimum-depth-of-binary-tree](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -32,6 +34,7 @@ LeetcodeN_gfg Ques solutions
 | [0111-minimum-depth-of-binary-tree](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -45,6 +48,7 @@ LeetcodeN_gfg Ques solutions
 | [0111-minimum-depth-of-binary-tree](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
