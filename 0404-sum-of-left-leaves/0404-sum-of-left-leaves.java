@@ -12,37 +12,25 @@
  *         this.right = right;
  *     }
  * }
- */ 
- //MY SOLUTION
+ */
+
+ //RETURNING SUM IN RECURSIVE ITERATIONS - using solutions section
 class Solution {
-    int sum = 0;
     public int sumOfLeftLeaves(TreeNode root) {
-        if(root == null) {
+        return helper(root, false);
+    }
+
+    public int helper(TreeNode node, boolean isLeft) {
+        if(node == null) {
             return 0;
         }
 
-        helper(root);
-        return sum;
-    }
-
-    public void helper(TreeNode node) {
-        if(node.left == null && node.right == null) { //leaf node
-            return;
+        if(node.left == null && node.right == null) {//leafnode 
+            return isLeft ? node.val : 0;
         }
-        // if(node.left == null) { //if no left node return 
-        //     return sum;
-        // }
 
-        if(node.left != null) { //left node
-            helper(node.left);
-            if(node.left.left == null && node.left.right == null) { //left leaf node
-                sum = sum + node.left.val;
-            }
-        }
-        
-        if(node.right != null) {
-            helper(node.right);
-        }   
-        return;
+        int left = helper(node.left, true);
+        int right = helper(node.right, false);
+        return left + right;
     }
 }
