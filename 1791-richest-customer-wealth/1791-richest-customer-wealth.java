@@ -11,7 +11,7 @@ class Solution {
             for(int j=0; j<m; j++) {
                 sum += accounts[i][j];
             }
-            max = Math.max(sum, max);
+            max = Math.max(sum, max); //check when 1 row sum is calculated
         }
         return max;
     }
