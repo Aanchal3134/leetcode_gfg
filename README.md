@@ -92,6 +92,7 @@ LeetcodeN_gfg Ques solutions
 | [0257-binary-tree-paths](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0257-binary-tree-paths) |
 | [0952-word-subsets](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0952-word-subsets) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2292-counting-words-with-a-given-prefix) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Aanchal3134/leetcode_gfg/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String Matching
 |  |
 | ------- |
@@ -111,6 +112,7 @@ LeetcodeN_gfg Ques solutions
 |  |
 | ------- |
 | [0952-word-subsets](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0952-word-subsets) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Aanchal3134/leetcode_gfg/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Backtracking
 |  |
 | ------- |
@@ -123,4 +125,8 @@ LeetcodeN_gfg Ques solutions
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Counting
+|  |
+| ------- |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Aanchal3134/leetcode_gfg/tree/master/3455-minimum-length-of-string-after-operations) |
 <!---LeetCode Topics End-->
