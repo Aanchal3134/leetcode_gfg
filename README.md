@@ -90,6 +90,7 @@ LeetcodeN_gfg Ques solutions
 | [2048-build-array-from-permutation](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2058-concatenation-of-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -116,6 +117,7 @@ LeetcodeN_gfg Ques solutions
 |  |
 | ------- |
 | [0952-word-subsets](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0952-word-subsets) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Aanchal3134/leetcode_gfg/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Backtracking
 |  |
@@ -146,4 +148,8 @@ LeetcodeN_gfg Ques solutions
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1791-richest-customer-wealth) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->
