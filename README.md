@@ -85,6 +85,7 @@ LeetcodeN_gfg Ques solutions
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0952-word-subsets](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0952-word-subsets) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1791-richest-customer-wealth) |
