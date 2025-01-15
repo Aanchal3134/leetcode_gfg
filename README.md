@@ -85,6 +85,7 @@ LeetcodeN_gfg Ques solutions
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0952-word-subsets](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0952-word-subsets) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1603-running-sum-of-1d-array) |
@@ -120,6 +121,7 @@ LeetcodeN_gfg Ques solutions
 |  |
 | ------- |
 | [0952-word-subsets](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0952-word-subsets) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1635-number-of-good-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Aanchal3134/leetcode_gfg/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -139,6 +141,7 @@ LeetcodeN_gfg Ques solutions
 ## Counting
 |  |
 | ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1635-number-of-good-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Aanchal3134/leetcode_gfg/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Simulation
@@ -158,4 +161,8 @@ LeetcodeN_gfg Ques solutions
 |  |
 | ------- |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
