@@ -1,26 +1,14 @@
 class Solution {
-    public int countMatches(List<List<String>> items, String ruleKey, String ruleValue) {//GPT GAVE CORRECT APPROACH
-        int count = 0;
-        if(ruleKey.equals("type")) {
-            for(int i=0; i<items.size(); i++) {
-                if(ruleValue.equals(items.get(i).get(0))) {
-                    count++;
-                }
-            }
+    public int countMatches(List<List<String>> items, String ruleKey, String ruleValue) {
+        int res = 0;//FROM SOLUTION SECTION
+        
+        for(int i = 0 ;i<items.size();i++){
+            if(ruleKey.equals("type") && items.get(i).get(0).equals(ruleValue)) res++;
+            if(ruleKey.equals("color") && items.get(i).get(1).equals(ruleValue)) res++;
+            if(ruleKey.equals("name") && items.get(i).get(2).equals(ruleValue)) res++;
         }
-        else if(ruleKey.equals("color")) {
-            for(int i=0; i<items.size(); i++) {
-                if(ruleValue.equals(items.get(i).get(1))) {
-                    count++;
-                }
-            }
-        }else {
-            for(int i=0; i<items.size(); i++) {
-                if(ruleValue.equals(items.get(i).get(2))) {
-                    count++;
-                }
-            }
-        }
-        return count;
+        
+        return res;
+        
     }
 }
