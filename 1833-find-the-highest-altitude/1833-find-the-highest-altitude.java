@@ -9,8 +9,7 @@ class Solution {
         int max = 0;
         for(int i=1; i<n+1; i++) {
             sum += gain[i-1];
-            alt[i] = sum;
-            max = Math.max(max, alt[i]);
+            max = Math.max(max, sum);
         }
 
         return max;
