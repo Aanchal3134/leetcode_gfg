@@ -92,6 +92,7 @@ LeetcodeN_gfg Ques solutions
 | [1603-running-sum-of-1d-array](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1791-richest-customer-wealth) |
+| [1899-count-items-matching-a-rule](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1899-count-items-matching-a-rule) |
 | [2048-build-array-from-permutation](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2058-concatenation-of-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -101,6 +102,7 @@ LeetcodeN_gfg Ques solutions
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0257-binary-tree-paths) |
 | [0952-word-subsets](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0952-word-subsets) |
+| [1899-count-items-matching-a-rule](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Aanchal3134/leetcode_gfg/tree/master/3455-minimum-length-of-string-after-operations) |
