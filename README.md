@@ -84,6 +84,7 @@ LeetcodeN_gfg Ques solutions
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0059-spiral-matrix-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0952-word-subsets](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0952-word-subsets) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -155,6 +156,7 @@ LeetcodeN_gfg Ques solutions
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0059-spiral-matrix-ii) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2058-concatenation-of-array) |
@@ -167,6 +169,7 @@ LeetcodeN_gfg Ques solutions
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0059-spiral-matrix-ii) |
 | [1791-richest-customer-wealth](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1791-richest-customer-wealth) |
 ## Bit Manipulation
 |  |
