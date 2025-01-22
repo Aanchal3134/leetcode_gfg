@@ -87,6 +87,7 @@ LeetcodeN_gfg Ques solutions
 | [0059-spiral-matrix-ii](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0059-spiral-matrix-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0952-word-subsets](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0952-word-subsets) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -145,6 +146,7 @@ LeetcodeN_gfg Ques solutions
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
