@@ -145,6 +145,7 @@ LeetcodeN_gfg Ques solutions
 ## Math
 |  |
 | ------- |
+| [0670-maximum-swap](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0670-maximum-swap) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1635-number-of-good-pairs) |
@@ -181,4 +182,8 @@ LeetcodeN_gfg Ques solutions
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Greedy
+|  |
+| ------- |
+| [0670-maximum-swap](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0670-maximum-swap) |
 <!---LeetCode Topics End-->
