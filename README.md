@@ -94,6 +94,7 @@ LeetcodeN_gfg Ques solutions
 | [1580-shuffle-the-array](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1635-number-of-good-pairs) |
+| [1677-matrix-diagonal-sum](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1833-find-the-highest-altitude) |
 | [1899-count-items-matching-a-rule](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1899-count-items-matching-a-rule) |
@@ -173,6 +174,7 @@ LeetcodeN_gfg Ques solutions
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0059-spiral-matrix-ii) |
+| [1677-matrix-diagonal-sum](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1791-richest-customer-wealth) |
 ## Bit Manipulation
 |  |
