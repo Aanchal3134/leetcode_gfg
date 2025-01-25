@@ -1,10 +1,9 @@
 class Solution {
-    public int diagonalSum(int[][] mat) {
+    public int diagonalSum(int[][] mat) { //MY SOLUTION - YAY YAY !!
         //given nxn matrix
-        int n = mat.length;
+        int n = mat.length; //n - row == col
 
         boolean[][] flag = new boolean[n][n];
-        int p1 = mat[0][0], p2 = mat[0][n-1];
         int sum = 0;
 
 //to track cols 
@@ -15,7 +14,7 @@ class Solution {
             for(int i=0; i<n; i++) { //row
             
                 if(left <= n-1) {
-                    if(flag[i][left] == false){
+                    if(!flag[i][left]){
                         sum += mat[i][left];
                         flag[i][left] = true;
                         left++;
@@ -23,7 +22,7 @@ class Solution {
                 }
 
                 if(right >= 0) {
-                    if(flag[i][right] == false) {
+                    if(!flag[i][right]) {
                         sum += mat[i][right];
                         flag[i][right] = true;
                         right--;
