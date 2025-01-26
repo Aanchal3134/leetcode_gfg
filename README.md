@@ -104,6 +104,7 @@ LeetcodeN_gfg Ques solutions
 | [2058-concatenation-of-array](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2058-concatenation-of-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aanchal3134/leetcode_gfg/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## String
 |  |
 | ------- |
@@ -190,8 +191,13 @@ LeetcodeN_gfg Ques solutions
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aanchal3134/leetcode_gfg/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Greedy
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0670-maximum-swap) |
+## Union Find
+|  |
+| ------- |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aanchal3134/leetcode_gfg/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
