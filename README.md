@@ -118,6 +118,7 @@ LeetcodeN_gfg Ques solutions
 | [0205-isomorphic-strings](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0257-binary-tree-paths) |
+| [0812-rotate-string](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0952-word-subsets) |
 | [1078-remove-outermost-parentheses](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1078-remove-outermost-parentheses) |
 | [1899-count-items-matching-a-rule](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1899-count-items-matching-a-rule) |
@@ -128,6 +129,7 @@ LeetcodeN_gfg Ques solutions
 ## String Matching
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0812-rotate-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Divide and Conquer
 |  |
