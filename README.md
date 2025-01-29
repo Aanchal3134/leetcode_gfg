@@ -9,6 +9,7 @@ LeetcodeN_gfg Ques solutions
 | [0094-binary-tree-inorder-traversal](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0145-binary-tree-postorder-traversal) |
+| [1078-remove-outermost-parentheses](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1078-remove-outermost-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -116,6 +117,7 @@ LeetcodeN_gfg Ques solutions
 | [0151-reverse-words-in-a-string](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0257-binary-tree-paths) |
 | [0952-word-subsets](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0952-word-subsets) |
+| [1078-remove-outermost-parentheses](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1078-remove-outermost-parentheses) |
 | [1899-count-items-matching-a-rule](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2032-largest-odd-number-in-string) |
