@@ -1,6 +1,6 @@
 class Solution {
     public boolean isIsomorphic(String s, String t) {
-        //MY SOLUTION
+        
         if(s.length() != t.length()) return false;
         int n = s.length();
 
@@ -11,9 +11,7 @@ class Solution {
             char ch2 = t.charAt(i);
             if(store.containsKey(ch1)) {
                 char val = store.get(ch1);
-                if(ch2 == val) {
-                    continue;
-                } else {
+                if(ch2 != val) {
                     return false;
                 }
             } else if(store.containsValue(ch2)) {
