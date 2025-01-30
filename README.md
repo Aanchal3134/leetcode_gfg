@@ -10,6 +10,7 @@ LeetcodeN_gfg Ques solutions
 | [0144-binary-tree-preorder-traversal](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0145-binary-tree-postorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1078-remove-outermost-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -121,6 +122,7 @@ LeetcodeN_gfg Ques solutions
 | [0812-rotate-string](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0952-word-subsets) |
 | [1078-remove-outermost-parentheses](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1078-remove-outermost-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1899-count-items-matching-a-rule](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2032-largest-odd-number-in-string) |
