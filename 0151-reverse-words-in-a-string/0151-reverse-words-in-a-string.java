@@ -1,19 +1,17 @@
 class Solution {
     public String reverseWords(String s) {
-        //solution section
-
-        //split str into array of words
         String[] str = s.trim().split("\\s+");
         String res = "";
 
-        for(int i=str.length-1; i > 0; i--) {
+        int n = str.length;
+
+        for(int i=n-1; i>=1; i--) {
             res += str[i] + " ";
         }
 
         //last elem
-        res += str[0]; //without trailing space
+        res += str[0];
 
         return res;
-
     }
 }
