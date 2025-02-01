@@ -116,6 +116,7 @@ LeetcodeN_gfg Ques solutions
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0151-reverse-words-in-a-string) |
@@ -151,6 +152,7 @@ LeetcodeN_gfg Ques solutions
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0242-valid-anagram) |
@@ -172,6 +174,7 @@ LeetcodeN_gfg Ques solutions
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0013-roman-to-integer) |
 | [0670-maximum-swap](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0670-maximum-swap) |
 | [1031-add-to-array-form-of-integer](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1031-add-to-array-form-of-integer) |
