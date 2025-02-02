@@ -18,6 +18,7 @@ LeetcodeN_gfg Ques solutions
 | [0100-same-tree](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -58,6 +59,7 @@ LeetcodeN_gfg Ques solutions
 | [0100-same-tree](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -89,6 +91,7 @@ LeetcodeN_gfg Ques solutions
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0059-spiral-matrix-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0898-transpose-matrix](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0898-transpose-matrix) |
 | [0952-word-subsets](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0952-word-subsets) |
@@ -141,6 +144,7 @@ LeetcodeN_gfg Ques solutions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -154,6 +158,7 @@ LeetcodeN_gfg Ques solutions
 | ------- |
 | [0012-integer-to-roman](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0013-roman-to-integer) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0205-isomorphic-strings](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0451-sort-characters-by-frequency) |
