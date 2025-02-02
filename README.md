@@ -32,6 +32,7 @@ LeetcodeN_gfg Ques solutions
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0543-diameter-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -51,6 +52,7 @@ LeetcodeN_gfg Ques solutions
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0543-diameter-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
 |  |
@@ -73,6 +75,7 @@ LeetcodeN_gfg Ques solutions
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0543-diameter-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -85,6 +88,7 @@ LeetcodeN_gfg Ques solutions
 | [0404-sum-of-left-leaves](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Array
 |  |
@@ -163,6 +167,7 @@ LeetcodeN_gfg Ques solutions
 | [0242-valid-anagram](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0451-sort-characters-by-frequency) |
 | [0952-word-subsets](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0952-word-subsets) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -228,6 +233,7 @@ LeetcodeN_gfg Ques solutions
 | ------- |
 | [0242-valid-anagram](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0451-sort-characters-by-frequency) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aanchal3134/leetcode_gfg/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Greedy
