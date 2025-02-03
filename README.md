@@ -118,6 +118,7 @@ LeetcodeN_gfg Ques solutions
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aanchal3134/leetcode_gfg/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Aanchal3134/leetcode_gfg/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Aanchal3134/leetcode_gfg/tree/master/3429-special-array-i) |
 ## String
 |  |
