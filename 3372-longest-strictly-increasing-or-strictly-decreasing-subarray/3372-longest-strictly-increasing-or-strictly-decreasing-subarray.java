@@ -2,9 +2,7 @@ class Solution {
     public int longestMonotonicSubarray(int[] nums) {
         //O(N) - TC - OPTIMIZED - EDITORIAL SECTION
         if(nums.length == 0) return 0;
-        if(nums.length == 1) return 1;
-
-        int maxLength = 0;
+        int maxLength = 1;
         int incLength = 1;
         int decLength = 1;
 
