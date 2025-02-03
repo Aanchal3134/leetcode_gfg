@@ -1,32 +1,26 @@
-class Solution { //BRUTE FORCE
+class Solution {
     public int longestMonotonicSubarray(int[] nums) {
+        //O(N) - TC - OPTIMIZED - EDITORIAL SECTION
         if(nums.length == 0) return 0;
+        if(nums.length == 1) return 1;
 
-        //inc subarrays
-        int maxLength = 0; 
-        for(int i=0; i<nums.length; i++) {
-            int currLength = 1;
-            for(int j=i+1; j<nums.length; j++) {
-                if(nums[j] > nums[j-1]) {
-                    currLength++;
-                } else {
-                    break;
-                }
-            }
-            maxLength = Math.max(currLength, maxLength);
-        }
+        int maxLength = 0;
+        int incLength = 1;
+        int decLength = 1;
 
-        //dec subarrays
-        for(int i=0; i<nums.length; i++) {
-            int currLength = 1;
-            for(int j=i+1; j<nums.length; j++) {
-                if(nums[j] < nums[j-1]) {
-                    currLength++;
-                } else {
-                    break;
-                }
+        for(int i=1; i<nums.length; i++) {
+            if(nums[i] > nums[i-1]) {
+                incLength++;
+                decLength = 1;
+            } else if(nums[i] < nums[i-1]) {
+                decLength++;
+                incLength = 1;
+            } else {
+                decLength = 1;
+                incLength = 1;
             }
-            maxLength = Math.max(currLength, maxLength);
+            int max = incLength > decLength ? incLength : decLength;
+            maxLength = Math.max(maxLength, max);
         }
 
         return maxLength;
