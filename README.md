@@ -93,6 +93,7 @@ LeetcodeN_gfg Ques solutions
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0059-spiral-matrix-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -151,6 +152,7 @@ LeetcodeN_gfg Ques solutions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
@@ -267,4 +269,8 @@ LeetcodeN_gfg Ques solutions
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0451-sort-characters-by-frequency) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
