@@ -112,6 +112,7 @@ LeetcodeN_gfg Ques solutions
 | [1791-richest-customer-wealth](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1833-find-the-highest-altitude) |
 | [1899-count-items-matching-a-rule](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1899-count-items-matching-a-rule) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2048-build-array-from-permutation](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2058-concatenation-of-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2292-counting-words-with-a-given-prefix) |
