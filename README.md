@@ -94,6 +94,7 @@ LeetcodeN_gfg Ques solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0059-spiral-matrix-ii) |
@@ -261,6 +262,7 @@ LeetcodeN_gfg Ques solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0151-reverse-words-in-a-string) |
 ## Trie
 |  |
