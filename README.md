@@ -93,6 +93,7 @@ LeetcodeN_gfg Ques solutions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0059-spiral-matrix-ii) |
@@ -166,6 +167,7 @@ LeetcodeN_gfg Ques solutions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
