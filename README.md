@@ -6,6 +6,7 @@ LeetcodeN_gfg Ques solutions
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0145-binary-tree-postorder-traversal) |
@@ -98,6 +99,7 @@ LeetcodeN_gfg Ques solutions
 | [0053-maximum-subarray](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0059-spiral-matrix-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0217-contains-duplicate](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0217-contains-duplicate) |
@@ -289,4 +291,8 @@ LeetcodeN_gfg Ques solutions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0053-maximum-subarray) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
