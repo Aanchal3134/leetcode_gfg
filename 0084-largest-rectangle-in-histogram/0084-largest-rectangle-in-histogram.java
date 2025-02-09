@@ -1,7 +1,6 @@
 class Solution { //optimised - using stack
     public int largestRectangleArea(int[] heights) {
         int n = heights.length;
-
         int maxArea = 0;
         Stack<Integer> st = new Stack<>();
 
@@ -10,8 +9,8 @@ class Solution { //optimised - using stack
             while(!st.isEmpty() && currH < heights[st.peek()]) {
                 int top = st.pop();
                 int width = (st.isEmpty()) ? i : i - st.peek() - 1;
-                //area - heights[top] * widht
-                maxArea = Math.max(heights[top] * width, maxArea);
+                int area = heights[top] * width;
+                maxArea = Math.max(area, maxArea);
             }
             st.push(i);
         }
