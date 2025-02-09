@@ -122,6 +122,7 @@ LeetcodeN_gfg Ques solutions
 | [2048-build-array-from-permutation](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2058-concatenation-of-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2448-count-number-of-bad-pairs](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2448-count-number-of-bad-pairs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aanchal3134/leetcode_gfg/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -187,6 +188,7 @@ LeetcodeN_gfg Ques solutions
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2448-count-number-of-bad-pairs](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2448-count-number-of-bad-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Aanchal3134/leetcode_gfg/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Backtracking
@@ -211,6 +213,7 @@ LeetcodeN_gfg Ques solutions
 | [1610-xor-operation-in-an-array](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1635-number-of-good-pairs) |
 | [2032-largest-odd-number-in-string](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2032-largest-odd-number-in-string) |
+| [2448-count-number-of-bad-pairs](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2448-count-number-of-bad-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -219,6 +222,7 @@ LeetcodeN_gfg Ques solutions
 | [1635-number-of-good-pairs](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1635-number-of-good-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2448-count-number-of-bad-pairs](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2448-count-number-of-bad-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Aanchal3134/leetcode_gfg/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Simulation
 |  |
