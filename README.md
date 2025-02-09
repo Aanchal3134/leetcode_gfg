@@ -206,6 +206,7 @@ LeetcodeN_gfg Ques solutions
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1610-xor-operation-in-an-array](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1635-number-of-good-pairs) |
 | [2032-largest-odd-number-in-string](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2032-largest-odd-number-in-string) |
 ## Counting
@@ -246,6 +247,7 @@ LeetcodeN_gfg Ques solutions
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0067-add-binary) |
+| [1610-xor-operation-in-an-array](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1610-xor-operation-in-an-array) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Sorting
 |  |
