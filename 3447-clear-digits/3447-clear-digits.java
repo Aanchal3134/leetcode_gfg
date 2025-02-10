@@ -1,19 +1,12 @@
 class Solution {
-    public String clearDigits(String s) { //FROM EDITORIAL
-        StringBuilder str = new StringBuilder(s);
-        
-        int i = 0;
+    public String clearDigits(String s) { //OPTIMIZED APPROACH - 
+        StringBuilder str = new StringBuilder(); //initialise empty stringbuilder
 
-        while(i < str.length()) {
-            if(Character.isDigit(str.charAt(i))) {
-                str.deleteCharAt(i); //no update in i
-
-                if(i > 0) {
-                    str.deleteCharAt(i-1);
-                    i--; 
-                }
+        for(int i=0; i<s.length(); i++) {
+            if(Character.isDigit(s.charAt(i)) && str.length() != 0) {
+                str.setLength(str.length()-1);
             } else {
-                i++;
+                str.append(s.charAt(i));
             }
         }
 
