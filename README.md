@@ -12,6 +12,7 @@ LeetcodeN_gfg Ques solutions
 | [0145-binary-tree-postorder-traversal](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0145-binary-tree-postorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [3447-clear-digits](https://github.com/Aanchal3134/leetcode_gfg/tree/master/3447-clear-digits) |
 ## Tree
 |  |
 | ------- |
@@ -152,6 +153,7 @@ LeetcodeN_gfg Ques solutions
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2032-largest-odd-number-in-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2292-counting-words-with-a-given-prefix) |
+| [3447-clear-digits](https://github.com/Aanchal3134/leetcode_gfg/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Aanchal3134/leetcode_gfg/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String Matching
 |  |
@@ -238,6 +240,7 @@ LeetcodeN_gfg Ques solutions
 | [1505-create-target-array-in-the-given-order](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2058-concatenation-of-array) |
+| [3447-clear-digits](https://github.com/Aanchal3134/leetcode_gfg/tree/master/3447-clear-digits) |
 ## Prefix Sum
 |  |
 | ------- |
