@@ -12,6 +12,7 @@ LeetcodeN_gfg Ques solutions
 | [0145-binary-tree-postorder-traversal](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0145-binary-tree-postorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Aanchal3134/leetcode_gfg/tree/master/3447-clear-digits) |
 ## Tree
 |  |
@@ -152,6 +153,7 @@ LeetcodeN_gfg Ques solutions
 | [1899-count-items-matching-a-rule](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1899-count-items-matching-a-rule) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2032-largest-odd-number-in-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3447-clear-digits](https://github.com/Aanchal3134/leetcode_gfg/tree/master/3447-clear-digits) |
@@ -242,6 +244,7 @@ LeetcodeN_gfg Ques solutions
 | [0898-transpose-matrix](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1505-create-target-array-in-the-given-order) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2058-concatenation-of-array) |
 | [3447-clear-digits](https://github.com/Aanchal3134/leetcode_gfg/tree/master/3447-clear-digits) |
