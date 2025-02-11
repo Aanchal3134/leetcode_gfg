@@ -214,6 +214,7 @@ LeetcodeN_gfg Ques solutions
 | [0012-integer-to-roman](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0067-add-binary) |
+| [0263-ugly-number](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0263-ugly-number) |
 | [0670-maximum-swap](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0670-maximum-swap) |
 | [1031-add-to-array-form-of-integer](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1031-add-to-array-form-of-integer) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1378-cells-with-odd-values-in-a-matrix) |
