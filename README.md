@@ -127,6 +127,7 @@ LeetcodeN_gfg Ques solutions
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2448-count-number-of-bad-pairs](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aanchal3134/leetcode_gfg/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -198,6 +199,7 @@ LeetcodeN_gfg Ques solutions
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Aanchal3134/leetcode_gfg/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Backtracking
@@ -278,6 +280,7 @@ LeetcodeN_gfg Ques solutions
 | [0451-sort-characters-by-frequency](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0451-sort-characters-by-frequency) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aanchal3134/leetcode_gfg/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Greedy
 |  |
@@ -302,6 +305,7 @@ LeetcodeN_gfg Ques solutions
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0451-sort-characters-by-frequency) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Bucket Sort
 |  |
 | ------- |
