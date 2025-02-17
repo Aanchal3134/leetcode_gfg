@@ -105,6 +105,7 @@ LeetcodeN_gfg Ques solutions
 | [0084-largest-rectangle-in-histogram](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0217-contains-duplicate) |
 | [0898-transpose-matrix](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0898-transpose-matrix) |
@@ -317,6 +318,7 @@ LeetcodeN_gfg Ques solutions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Monotonic Stack
 |  |
 | ------- |
