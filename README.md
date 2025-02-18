@@ -127,6 +127,7 @@ LeetcodeN_gfg Ques solutions
 | [2048-build-array-from-permutation](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2058-concatenation-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2448-count-number-of-bad-pairs](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -252,6 +253,7 @@ LeetcodeN_gfg Ques solutions
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2058-concatenation-of-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3447-clear-digits](https://github.com/Aanchal3134/leetcode_gfg/tree/master/3447-clear-digits) |
 ## Prefix Sum
 |  |
@@ -301,6 +303,7 @@ LeetcodeN_gfg Ques solutions
 | [0027-remove-element](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0151-reverse-words-in-a-string) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Trie
 |  |
 | ------- |
