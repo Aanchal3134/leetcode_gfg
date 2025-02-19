@@ -102,6 +102,7 @@ LeetcodeN_gfg Ques solutions
 | [0053-maximum-subarray](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -189,6 +190,7 @@ LeetcodeN_gfg Ques solutions
 | [0001-two-sum](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0169-majority-element) |
@@ -268,6 +270,7 @@ LeetcodeN_gfg Ques solutions
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0073-set-matrix-zeroes) |
 | [0898-transpose-matrix](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1791-richest-customer-wealth) |
