@@ -107,6 +107,7 @@ LeetcodeN_gfg Ques solutions
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0217-contains-duplicate) |
 | [0898-transpose-matrix](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0898-transpose-matrix) |
@@ -189,6 +190,7 @@ LeetcodeN_gfg Ques solutions
 | [0012-integer-to-roman](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0217-contains-duplicate) |
@@ -296,6 +298,7 @@ LeetcodeN_gfg Ques solutions
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0128-longest-consecutive-sequence) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Aanchal3134/leetcode_gfg/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aanchal3134/leetcode_gfg/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Two Pointers
