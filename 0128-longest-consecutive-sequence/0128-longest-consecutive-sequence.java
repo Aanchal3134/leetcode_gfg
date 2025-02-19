@@ -1,24 +1,32 @@
 class Solution {
     public int longestConsecutive(int[] nums) {
-        //VIDEO SOLUTION - BTTER SOLUTION - 
-        //1>> SORT
-        //2>> CHECK EACH ELEM BY TAKING LAST SMALLEST
-        
+        //VIDEO SOLUTION - optimal sOLUTION - 
+        //using hashset
+        //store all elem in hashset
+        //search if elem-1 exists
+        //it it does then do not iterate
+        //if it doesn't iterate for the longest sequence
         int n = nums.length;
         if(n == 0) return 0;
-        Arrays.sort(nums);
+       
         int max = 1;
         int currlen = 0;
-        int lastSmallest = Integer.MIN_VALUE;
+        HashSet<Integer> set = new HashSet<>();
+
         for(int i=0; i<n; i++) {
-            if(nums[i] - 1 == lastSmallest) {
-                currlen++;
-                lastSmallest = nums[i];
-            } else if(nums[i] != lastSmallest) {
+            set.add(nums[i]);
+        }
+
+        for(int num : set) {
+            if(!set.contains(num-1)) {
                 currlen = 1;
-                lastSmallest = nums[i];
+                int x = num;
+                while(set.contains(x+1)) {
+                    x++;
+                    currlen++;
+                }
+                max = Math.max(currlen, max);
             }
-            max = Math.max(max, currlen);
         }
         return max;
     }
