@@ -1,26 +1,32 @@
 class Solution {
     public void rotate(int[][] matrix) {
+        //optimal sol- in place
+        //video sol
         int n = matrix.length;
-        int[][] arr = new int[n][n];
-
-        int row = 0;
-        int col = n-1;
         
-
-        while(row < n && col >= 0) {
-            int i=0; //no need for j
-            while(i < n) {
-                arr[i][col] = matrix[row][i];
-                i++;
+        //transpose of given matrix
+        for(int i=0; i<=n-2; i++) {
+            for(int j=i+1; j<=n-1; j++) {
+                //swap
+                int temp = 0;
+                temp = matrix[i][j];
+                matrix[i][j] = matrix[j][i];
+                matrix[j][i] = temp;
             }
-
-            row++;
-            col--;
         }
 
-        for(int k=0; k<n; k++) {
-            for(int m=0; m<n; m++) {
-                matrix[k][m] = arr[k][m];
+        //reverse each row of the matrix
+        for(int i=0; i<n; i++) {
+            int left = 0;
+            int right = n-1;
+            while(left < right) {
+                //swap
+                int temp = 0;
+                temp = matrix[i][left];
+                matrix[i][left] = matrix[i][right];
+                matrix[i][right] = temp;
+                left++;
+                right--;
             }
         }
     }
