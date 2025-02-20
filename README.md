@@ -112,6 +112,7 @@ LeetcodeN_gfg Ques solutions
 | [0128-longest-consecutive-sequence](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0217-contains-duplicate) |
+| [0560-subarray-sum-equals-k](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0560-subarray-sum-equals-k) |
 | [0898-transpose-matrix](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0898-transpose-matrix) |
 | [0952-word-subsets](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0952-word-subsets) |
 | [1031-add-to-array-form-of-integer](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1031-add-to-array-form-of-integer) |
@@ -199,6 +200,7 @@ LeetcodeN_gfg Ques solutions
 | [0217-contains-duplicate](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0560-subarray-sum-equals-k) |
 | [0952-word-subsets](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0952-word-subsets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -265,6 +267,7 @@ LeetcodeN_gfg Ques solutions
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1833-find-the-highest-altitude) |
 ## Matrix
