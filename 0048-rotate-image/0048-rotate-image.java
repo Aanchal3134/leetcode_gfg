@@ -8,11 +8,9 @@ class Solution {
         
 
         while(row < n && col >= 0) {
-            int i=0; 
-            int j=0;
-            while(i < n && j < n) {
-                arr[j][col] = matrix[row][i];
-                j++;
+            int i=0; //no need for j
+            while(i < n) {
+                arr[i][col] = matrix[row][i];
                 i++;
             }
 
