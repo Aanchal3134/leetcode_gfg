@@ -17,17 +17,10 @@ class Solution {
                 count--;
             }
         }
-        int count2 = 0;
-        for(int i=0; i<n; i++) {
-            if(nums[i] == el) {
-                count2++;
-            }
-        }
+        //NO NEED TO CHECK IF MAJORITY ELEM IS el AS QUES SAYS 
+        //THE ARRAY ALWAYS HAS A MAJ ELEM
+        //SO THE LAST STEP ONLY CHECK IF ARRAY HAS A MAJ ELEM OR NOT WE DON'T KNOW
 
-        if(count2 > n/2) {
-            return el;
-        }
-
-        return -1;
+        return el;
     }
 }
