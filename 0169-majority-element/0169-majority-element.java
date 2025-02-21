@@ -1,19 +1,33 @@
 class Solution {
     public int majorityElement(int[] nums) {
+        //MOOR'S VOTING ALGO 
+        //VERY IMP TO UNDERSTAND 
+        //NOT TO BE MUGGED UP BUT BUILD THE INTUITION - EITHER REWATCH VIDEO
+        //OR IF U REMEMBER THEN DRY RUN THE EXAMPLE
         int n = nums.length;
-        Map<Integer, Integer> map = new HashMap<>();
-
+        int el = 0;
+        int count = 0;
         for(int i=0; i<n; i++) {
-            map.put(nums[i], map.getOrDefault(nums[i], 0)+1);
+            if(count == 0) {
+                count = 1;
+                el = nums[i];
+            } else if(nums[i] == el) {
+                count++;
+            } else {
+                count--;
+            }
         }
-
-        n = n/2; //we just check if a value is greater than n/2
-        for(Map.Entry<Integer, Integer> entry : map.entrySet()) {
-            if(entry.getValue() > n) {
-                return entry.getKey();
+        int count2 = 0;
+        for(int i=0; i<n; i++) {
+            if(nums[i] == el) {
+                count2++;
             }
         }
 
-        return 0;
+        if(count2 > n/2) {
+            return el;
+        }
+
+        return -1;
     }
 }
