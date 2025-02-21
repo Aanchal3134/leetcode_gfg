@@ -6,7 +6,7 @@ class Solution {
         List<Integer> list = new ArrayList<>();
 
         int count1 = 0, count2 = 0;
-        int el1 = 0, el2 = 0;
+        int el1 = Integer.MIN_VALUE, el2 = Integer.MIN_VALUE;
 
         for(int i=0; i<n; i++) {
             if(count1 == 0 && nums[i] != el2) {
