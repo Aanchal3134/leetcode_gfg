@@ -113,6 +113,7 @@ LeetcodeN_gfg Ques solutions
 | [0128-longest-consecutive-sequence](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0560-subarray-sum-equals-k) |
 | [0898-transpose-matrix](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0898-transpose-matrix) |
 | [0952-word-subsets](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0952-word-subsets) |
@@ -199,6 +200,7 @@ LeetcodeN_gfg Ques solutions
 | [0169-majority-element](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0560-subarray-sum-equals-k) |
@@ -243,6 +245,7 @@ LeetcodeN_gfg Ques solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0451-sort-characters-by-frequency) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1635-number-of-good-pairs) |
@@ -294,6 +297,7 @@ LeetcodeN_gfg Ques solutions
 | [0075-sort-colors](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Aanchal3134/leetcode_gfg/tree/master/0451-sort-characters-by-frequency) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aanchal3134/leetcode_gfg/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
