@@ -34,7 +34,7 @@ class Solution {
             }
         }
         if(c1 > target) { list.add(el1); } 
-        if(c2 > target && el1 != el2) { list.add(el2); }
+        if(c2 > target) { list.add(el2); }
         return list;
     }
 }
