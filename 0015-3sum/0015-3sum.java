@@ -2,6 +2,7 @@ class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
         int n = nums.length;
         Arrays.sort(nums);
+        //TC : O(N LOG N) + O(N^2);
         //OPTIMAL - 3 POINTERS, SC : O(1)- NO EXTRA SPACE IS USED TO SOLVE THE QUES
         //ONLY SPACE TO STORE THE ANS
         List<List<Integer>> ans = new ArrayList<>();
