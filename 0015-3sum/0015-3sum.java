@@ -1,22 +1,32 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
         int n = nums.length;
-        //BETTER APPROACH - O(N^2) : TC
-        Set<List<Integer>> st = new HashSet<>(); //stores list of int for ans
+        Arrays.sort(nums);
+        //OPTIMAL - 3 POINTERS, SC : O(1)- NO EXTRA SPACE IS USED TO SOLVE THE QUES
+        //ONLY SPACE TO STORE THE ANS
+        List<List<Integer>> ans = new ArrayList<>();
         for(int i=0; i<n; i++) {
-            Set<Integer> tempset = new HashSet<>();
-            for(int j=i+1; j<n; j++) {
-                int third = -(nums[i] + nums[j]);
-                if(tempset.contains(third)) {
-                    List<Integer> temp = Arrays.asList(nums[i], nums[j], third);
-                    temp.sort(null); //temp list sorted to be kept uniquely in set
-                    st.add(temp); //ans set to be added to ans list
+            if(i > 0 && nums[i] == nums[i-1]) continue;
+            int j = i+1;
+            int k = n-1;
+            while(j < k) {
+                int sum = nums[i] + nums[j] + nums[k];
+                if(sum < 0) {
+                    j++;
+                } else if(sum > 0) {
+                    k--;
+                } else {
+                    List<Integer> temp = Arrays.asList(nums[i], nums[j], nums[k]);
+                    ans.add(temp);
+                    j++;
+                    k--;
+                    while(j < k && nums[j] == nums[j-1]) j++;
+                    while(j < k && nums[k] == nums[k+1]) k--;
                 }
-                tempset.add(nums[j]);
             }
         }
 
-        List<List<Integer>> ans = new ArrayList<>(st); //set(list) is stored in list of list
+        
         return ans;
     }
 }
